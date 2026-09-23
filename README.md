@@ -1,7 +1,5 @@
 # kailin772.website.io
-Project Website
 
-<!DOCTYPE html>
 <html>
 <title> How to Stay Healthy When Everyone is Sick </title>
 
