@@ -9,8 +9,12 @@
 <body>
 <h1> First Aid Tips EVERYONE You Should Know! </h1>
 
-<h3> How to read  </h3>
-<p> If you like to shower in the morning or late at night, it might be a good time to change while everyone's sick! Even if you don't immediately hope into your bed or on your couch after school, floating germs around you can still get you sick! Listen to me, I'm a future doctor. </p> 
+<h3> Reading a Heartbeat </h3>
+<p> You can measure someone's heartbeat in multiple locations on the body, but the most recommended are the neck and the wrist. </p> 
+<ul>
+<li> Wrist: Hold two fingers to the patient's wrist. Make sure your fingers are pressed firmly into the vein and now on the bone in the wrist. </li>
+<li> Neck: Hold two fingers to the side of the patient's neck. Press your fingers firmly into the vein in the neck. </li>
+<p> This step is essential because you can tell if they are in immediate need of other help, such as CPR or using an AED. Tip: If you would like to count their BPM (beats per minute), set a timer for fifteen seconds and count the number of beats. Then multiply that number by four. Try practicing this skill on yourself right now!  </p> 
 
 <h3> Step Two: Exercise by walking 0.25 a mile a day </h3>
 <p> Exercise is important and so is your health! Sometimes 0.25 miles might be a little too long so you can also try 0.08 miles a day. Stay healthy and listen to my advice! </p>
