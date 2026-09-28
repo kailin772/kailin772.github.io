@@ -1,13 +1,13 @@
 # kailin772.github.io
 
 <html>
-<title> First Aid Tips EVERYONE You Should Know! </title>
+<title> First Aid Tips EVERYONE Should Know! </title>
 
 <body style="background-color: powderblue;">
 </body>
 
 <body>
-<h1> First Aid Tips EVERYONE You Should Know! </h1>
+<h1> First Aid Tips EVERYONE Should Know! </h1>
 
 <h3> Reading a Heartbeat </h3>
 <p> You can measure someone's heartbeat in multiple locations on the body, but the most recommended are the neck and the wrist. </p> 
