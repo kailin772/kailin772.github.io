@@ -31,7 +31,8 @@ Image by <a href="https://pixabay.com/users/publicdomainpictures-14/?utm_source=
 Image by <a href="https://pixabay.com/users/openclipart-vectors-30363/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1293191">OpenClipart-Vectors</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=1293191">Pixabay</a>
 
 <h2> Hope you learned something new today and save a life in the future! </h2>
-</body>
 
-
-</html>
+<p> More about First Aid: </p>
+<a href="https://www.redcross.org/take-a-class/first-aid">
+    Learn more about First Aid
+</a>
