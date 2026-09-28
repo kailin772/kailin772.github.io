@@ -1,7 +1,7 @@
 # kailin772.website.io
 
 <html>
-<title> How to Stay Healthy When Everyone is Sick </title>
+<title> First Aid Tips EVERYONE You Should Know! </title>
 
 <body style="background-color: powderblue;">
 </body>
