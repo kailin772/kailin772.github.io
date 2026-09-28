@@ -1,4 +1,4 @@
-# kailin772.website.io
+# kailin772.github.io
 
 <html>
 <title> First Aid Tips EVERYONE You Should Know! </title>
