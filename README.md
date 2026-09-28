@@ -3,13 +3,13 @@
 <html>
 <title> First Aid Tips EVERYONE You Should Know! </title>
 
-<body style="background-color: powderblue;">
+<body style="background-color: powderpurple;">
 </body>
 
 <body>
-<h1> Are your classmates sick and coughing? Here's how to stay healthy! (not from personal experience) </h1>
+<h1> First Aid Tips EVERYONE You Should Know! </h1>
 
-<h3> Step One: Shower right after school </h3>
+<h3> How to read  </h3>
 <p> If you like to shower in the morning or late at night, it might be a good time to change while everyone's sick! Even if you don't immediately hope into your bed or on your couch after school, floating germs around you can still get you sick! Listen to me, I'm a future doctor. </p> 
 
 <h3> Step Two: Exercise by walking 0.25 a mile a day </h3>
